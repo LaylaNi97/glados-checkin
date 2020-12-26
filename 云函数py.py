@@ -2,7 +2,7 @@ import requests ,os
 # server酱开关，填0不开启(默认)，填2同时开启cookie失效通知和签到成功通知
 sever = 'on'
 # 填写server酱sckey,不开启server酱则不用填（自己更改）
-sckey = 'SCU89402Tf98b7f01ca3394b9ce9aa5e2ed1a****************'
+sckey = 'SCU130893T99330416782e9fcae72ec72f921b76c55fc316085be91'
 # 填入glados账号对应cookie
 cookie = '__cfduid=d825014ac33b402b3f**************'
 referer = 'https://glados.rocks/console/checkin'
